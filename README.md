@@ -4,4 +4,4 @@ A work-in-progress mod for Terraria that includes items from some of my favorite
 # Donatello’s Bō Staff
 ![](https://github.com/miguel-larena/PreHardModePlus/blob/main/BoStaffDemo.gif)
 
-Inspired by the "Example Advanced Flail" from the tModLoader ExampleMod.
+An adaption of the "Example Advanced Flail" from the tModLoader ExampleMod.
