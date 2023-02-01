@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKTBttdT1RwfqWQ0xMf8x/VdFdNVlOO30wMhHG29GhvLmn9f8WKRiPg27SmjsijTOnr7Slre5ybyprR9taGjXg==",
+  "success": true,
+  "projectFilePath": "/Users/miguellarena/Library/Application Support/Terraria/tModLoader/ModSources/PreHardmodePlus/PreHardmodePlus.csproj",
+  "expectedPackageFiles": [
+    "/Users/miguellarena/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

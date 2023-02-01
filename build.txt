@@ -1,0 +1,3 @@
+displayName = Pre Hardmode Plus
+author = Mig
+version = 0.1
