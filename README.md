@@ -1,6 +1,3 @@
-# PreHardmodePlus
-A work-in-progress mod for Terraria that includes items from some of my favorite childhood cartoons.
-
 # Donatello’s Bō Staff
 
 A recreation of Donatello's signature weapon from the Teenage Mutant Ninja Turtles series.
